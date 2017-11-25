@@ -46,3 +46,6 @@ detailed informations on how to compile openCV on Adrians pages:
 https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/
 
 The pictures below are showing the output of Raspberry Pi. You can connect the HDMI port to an Ammimon Connex or Lightbridge to get both camera feeds transmitted
+
+<img src="https://github.com/zendrones/SonyQX30_Remote/raw/master/Screen.jpg">
+<img src="https://github.com/zendrones/SonyQX30_Remote/raw/master/aufbau.jpg">
