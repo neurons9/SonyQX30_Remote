@@ -9,6 +9,8 @@ Raspberry Pi 3 Python based App to stream Live Video out from Sony lensstyle QX3
 6. switch to see both cams at one time, or only Sony or only Raspy Cam
 7. experimential Face detection with OpenCV
 
+My initial idea was to control camera functions with rc inputs via an arduino nano connected with USB to Raspberry. But as we have mavlink i think it is better to monitor channel_raw input params. Arduino is only able to monitor 3 channels at one time.
+
 <b>Ideas for future releases:</b>
 1. add precicion landing with Pi Camera face down (moved by a small servo)
 2. add object tracking by moving the Sony Gimbal
